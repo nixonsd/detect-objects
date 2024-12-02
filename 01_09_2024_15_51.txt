@@ -1,0 +1,4 @@
+Loaded image with shape: (4500, 3000, 3)
+Completed forward pass through YOLO network.
+Detected person - Confidence: 0.76, Box: x=1976, y=3891, w=324, h=641
+Indexes after Non-Maximum Suppression: [0]
